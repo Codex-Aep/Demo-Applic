@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Enter Credentials", Toast.LENGTH_SHORT).show();
                 } else if (selectedImageUri == null) {
                     // Show toast message if no image is selected
-                    Toast.makeText(MainActivity.this, "Select Image", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Select Imagex", Toast.LENGTH_SHORT).show();
                 } else if (selectedCategory == null) {
                     Toast.makeText(MainActivity.this, "Select a Category", Toast.LENGTH_SHORT).show();
                 } else {
